@@ -1,0 +1,25 @@
+/* Media Queries */
+$MQPhone1 : 320px;      $MQPhone2 : 375px;      $MQPhone3 : 425px;      $MQPhone4 : 540px;
+
+$MQTablet1 : 768px;     $MQTablet2 : 820px;
+
+$MQPC_1 : 1024px;       $MQPC_2 : 1280px;       $MQPC_3 : 1360px;       $MQPC_4 : 1440px;
+$MQPC_5 : 1600px;       $MQPC_6 : 1920px;       $MQPC_7 : 2048px;       $MQPC_8 : 2560px;
+
+/* Media Query Base */
+
+/* @media (min-width: #{$MQPhone1}) and (max-width: #{$MQPhone2 - 1px}) {
+    
+}
+@media (min-width: #{$MQPhone2}) and (max-width: #{$MQPhone3 - 1px}) {
+    
+}
+@media (min-width: #{$MQPhone3}) and (max-width: #{$MQPC_3 - 1px}) {
+    
+}
+@media (min-width: #{$MQPC_4}) and (max-width: #{$MQPC_5 - 1px}) {
+    
+}
+@media (min-width: #{$MQPC_6}) and (max-width: #{$MQPC_8}) {
+    
+} */
