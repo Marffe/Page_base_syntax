@@ -12,6 +12,11 @@ I made this to **D**on't **R**epeat <s>(Your)</s>**M**yself
 - Minor changes to description text in the MD file
 - Added a list of changes
 
+### 20/10/2022
+
+- Added a h1 for titles on projects
+- Added two comments in the JS file
+
 ### To do
 
 - Remade SASS
