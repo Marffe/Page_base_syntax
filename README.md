@@ -17,6 +17,12 @@ I made this to **D**on't **R**epeat <s>(Your)</s>**M**yself
 - Added a h1 for titles on projects
 - Added two comments in the JS file
 
+### 25/10/2022
+
+- Now OpenSans is part of my Projects
+- base.css is renamed top MediaQueries.css
+- Added empty.html
+
 ### To do
 
 - Remade SASS
